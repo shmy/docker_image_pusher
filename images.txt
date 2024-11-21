@@ -1,2 +1,2 @@
-
-openim/openim-web-front:release-v3.8.1
+openimsdk/openim-server:release-v3.8.1
+openimsdk/openim-chat:release-v1.8.2
