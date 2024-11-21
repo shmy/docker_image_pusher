@@ -1,4 +1,1 @@
-openim/openim-server:release-v3.8.1
-openim/openim-chat:v1.8.2
-openim/openim-web-front:release-v3.8.1
-openim/openim-admin-front:release-v1.8.2
+bitnami/zookeeper:3.8
