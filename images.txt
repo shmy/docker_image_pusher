@@ -7,7 +7,7 @@ prom/alertmanager:v0.27.0
 grafana/grafana:11.0.1
 quay.io/coreos/etcd:v3.5.13
 openim/openim-web-front:release-v3.8.0
-openim/openim-admin-front:release-v1.8.0
+openim/openim-admin-front:release-v1.8.2
 prom/node-exporter:v1.7.0
 openim/openim-server:release-v3.8
 openim/openim-chat:release-v1.8
